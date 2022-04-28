@@ -1,11 +1,7 @@
-A list of SQL statements used to create our tables:
+-- A list of SQL statements used to create our tables:
 
 CREATE SCHEMA IF NOT EXISTS university_db;
 USE university_db;
--- Adam Gordon
--- Samantha Goleco
--- Bryan Trinh
--- Kelly Suen
 
 CREATE TABLE Student (
 StudentID    	INT NOT NULL,
